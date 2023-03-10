@@ -1,0 +1,45 @@
+Problems with file Cosmos_War_of_the_Planets.mp4: 
+Wrong frame rate. Frame rate should be 25 but it is 30.
+Wrong aspect ratio. Aspect ratio should be 16/9 or 1.7777777777777777 but it is 1.7740112994350283
+Wrong resolution. Resolution should be 640x360 but it is 628x354.
+Wrong audio bit rate. Audio bit rate should be up to 256 kbps but it is 317.103 kbps.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Problems with file Last_man_on_earth_1964.mov: 
+Wrong video container format. Format container should be mp4 but it is mov.
+Wrong video codec. Video codec should be h.264 but it is prores.
+Wrong frame rate. Frame rate should be 25 but it is 24.
+Wrong video bit rate. Video bit rate should be between 2-5 mbps but it is 9.285191 mbps.
+Wrong audio codec. Audio codec should be aac but it is pcm_s16le .
+Wrong audio bit rate. Audio bit rate should be up to 256 kbps but it is 1536.0 kbps.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Problems with file The_Hill_Gang_Rides_Again.mp4: 
+Wrong video bit rate. Video bit rate should be between 2-5 mbps but it is 7.53773 mbps.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Problems with file Voyage_to_the_Planet_of_Prehistoric_Women.mp4: 
+Wrong video codec. Video codec should be h.264 but it is hevc.
+Wrong frame rate. Frame rate should be 25 but it is 30.
+Wrong video bit rate. Video bit rate should be between 2-5 mbps but it is 8.038857 mbps.
+Wrong audio codec. Audio codec should be aac but it is mp3 .
+Wrong audio bit rate. Audio bit rate should be up to 256 kbps but it is 320.0 kbps.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Problems with file The_Gun_and_the_Pulpit.avi: 
+Wrong video container format. Format container should be mp4 but it is avi.
+Wrong video codec. Video codec should be h.264 but it is rawvideo.
+Wrong frame rate. Frame rate should be 25 but it is 47.
+Wrong aspect ratio. Aspect ratio should be 16/9 or 1.7777777777777777 but it is 1.7821782178217822
+Wrong resolution. Resolution should be 640x360 but it is 720x404.
+No video bit rate.
+Wrong audio codec. Audio codec should be aac but it is pcm_s16le .
+Wrong audio bit rate. Audio bit rate should be up to 256 kbps but it is 1536.0 kbps.
+Wrong audio channel. Audio channels should be stereo but it is unknown.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
